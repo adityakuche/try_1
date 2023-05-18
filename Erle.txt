@@ -4,9 +4,4 @@ robots that will be used in cities solving
 tasks such as surveillance, environmental
 monitoring or even providing aid at catastrophes.
 
- day1
- day2
- day3
- day1
- day2
- day3
+ 
